@@ -1,0 +1,117 @@
+.shipping-screen-h1 {
+    display: flex;
+    height: 40px;
+    padding: 0 16px;
+    align-items: center;
+    gap: 8px;
+    align-self: stretch;
+    border-radius: 6px;
+    border: 1px solid var(--blacking, #141108);
+    background: var(--White, #FFF);
+    color: #6C7275;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 0;
+  }
+
+  .shipping-header {
+    color: #000;
+    font-family: 'Inter';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.4px;
+    margin-bottom: 20px;
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 40px;
+  }
+
+  .shipping-screen-container {
+    display: flex;
+    width: 100%;
+    padding: 40px 24px;
+    flex-direction: column;
+    gap: 24px;
+    border-radius: 4px;
+    border: 1px solid #141718;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+
+  .shipping-screen-contact-info-heading {
+    color: var(--neutral-07100, #141718);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    margin: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+  .shipping-screen-form-label-style {
+    color: var(--neutral-04100, #6C7275);
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+    text-transform: uppercase;
+    padding-bottom: 7px;
+  }
+
+  .shipping-screen-input-container {
+    display: flex;
+    height: 40px;
+    width: 100%;
+    padding: 0 16px;
+    align-items: center;
+    gap: 8px;
+    align-self: stretch;
+    border-radius: 6px;
+    border: 1px solid var(--blacking, #141108);
+    background: var(--White, #FFF);
+    color: #6C7275;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+  }
+
+  .shipping-screen-check-style {
+    color: #6C7275;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 0;
+  }
+
+  .shipping-screen-button {
+    display: flex;
+    width: 100%;
+    padding: 12px 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 8px;
+    background: #D994BC;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 18px;
+    border: none;
+    margin-top: 25px;
+    transition: background 0.3s;
+  }

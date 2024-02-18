@@ -1,0 +1,55 @@
+.productDashboardTitle-admin {
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.4px;
+    padding-top: 50px;
+    text-align: center;
+  }
+  
+  .addProduct-button-admin {
+    padding: 10px 20px;
+    gap: 8px;
+    border-radius: 8px;
+    background: var(--PINK, #D994BC);
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: -0.4px;
+    margin-bottom: 35px;
+    width: 200px;
+    transition: background 0.3s;
+  }
+
+  .addProduct-TableRow-admin {
+    color: #FFF;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    background: var(--blacking, #141108);
+  }
+
+  .addProduct-TableRow-admin-values {
+    color: var(--blacking, #141108);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+  }
+  
+  
+  

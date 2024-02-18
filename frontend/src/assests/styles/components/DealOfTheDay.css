@@ -1,0 +1,96 @@
+/* dealOfDay.css */
+
+.deal-of-day {
+    background-image: url('../../DealoftheDay.png');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+  }
+  
+  .heading {
+    font-family: 'Frank Ruhl Libre';
+    font-size: 48px;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: 7%;
+    padding-top: 10%;
+  }
+  
+  .paragraph {
+    color: var(--Color-Primary-Dark-Brown, #34251F);
+    font-family: 'Lato';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 180%;
+    text-transform: capitalize;
+    margin-left: 7%;
+    padding-top: 15px;
+  }
+  
+  .squares-container {
+    display: flex;
+    align-items: center;
+    margin-left: 7%;
+    padding-top: 20px;
+  }
+  
+  .square {
+    width: 90px;
+    height: 100px;
+    flex-shrink: 0;
+    background: var(--Color-Secondary-White, #FFF);
+    margin: 10px;
+  }
+  
+  .square-content {
+    color: var(--Color-Primary-Dark-Brown, #34251F);
+    font-family: 'Inter';
+    font-size: 42px;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+  }
+  
+  .text {
+    color: var(--Color-Primary-Dark-Brown, #34251F);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .shop-now {
+    display: flex;
+    height: 45px;
+    padding: 30px;
+    padding-left: 45px;
+    padding-right: 45px;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    border: var(--Color-Primary-Dark-Brown, #34251F);
+    background: var(--Color-Primary-Dark-Brown, #34251F);
+    color: var(--Color-Secondary-White, #FFF);
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
+    margin-left: 7.7%;
+    margin-top: 25px;
+    width: 200px;
+  }
+  

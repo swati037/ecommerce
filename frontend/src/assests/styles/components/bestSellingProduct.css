@@ -1,0 +1,115 @@
+.container100 {
+  border: 1px solid #ddd;
+  text-align: center;
+  background-color: white;
+  margin-bottom: 20px;
+  width: 85%;
+  height: 400px;
+}
+
+.image-container-style {
+  position: relative;
+  width: 110%;
+  border-radius: 0;
+  overflow: hidden;
+}
+
+.discount-badge {
+    position: absolute;
+    top: 4px;
+    left: 7px;
+    background: #38CB89;
+    color: #fff;
+    padding: 4px 14px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+  }
+
+  .link-paragraph {
+    color: var(--blacking, #141108);
+    font-family: 'Inter';
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    transition: color 0.3s;
+    padding-top: 10px;
+  }
+  
+  .link-paragraph:hover {
+    color: var(--PINK, #D994BC);
+  }
+
+  .custom-span {
+    color: var(--Black-900, #121212);
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 34px;
+    letter-spacing: -0.6px;
+    margin: 0 0 26px 0;
+    padding-bottom: 4px;
+  }
+
+  .price-span {
+    color: var(--neutral-04100, #6C7275);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    text-decoration-line: line-through;
+    padding-left: 20px;
+  }
+
+  .best-seller-heading {
+    color: var(--Color-Secondary-White, #FFF);
+    font-family: 'Frank Ruhl Libre';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+
+  .hydration-paragraph {
+    color: var(--Color-Secondary-White, #FFF);
+    font-family: 'Lato';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 180%;
+    text-transform: capitalize;
+    padding-right: 20px;
+    padding-left: 10px;
+  }
+
+  .styled-div {
+    display: flex;
+    height: 45px;
+    padding: 13px;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    border: 1px solid var(--Color-Secondary-White, #FFF);
+    color: var(--Color-Secondary-White, #FFF);
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
+    margin-left: 10px;
+    width: 70%;
+  }

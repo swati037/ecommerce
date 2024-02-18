@@ -1,0 +1,93 @@
+.card_component2-container-div {
+    border-radius: 6px;
+    border: 1.5px solid var(--neutral-04100, #6C7275);
+    background: #FFF;
+    padding: 16px 24px;
+    margin-top: 35px;
+    gap: 16px;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 35px auto 0 auto;
+  }
+  
+  .card_component2-myHeading {
+    align-self: stretch;
+    color: var(--PINK, #D994BC);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 34px;
+    letter-spacing: -0.6px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .card_component2-myLink {
+    color: var(--blacking, #141108);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    transition: color 0.3s;
+  }
+
+  .card_component2-productCategory {
+    color: var(--neutral-04100, #6C7275);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+  }
+
+  .card_component2-productPrice {
+    color: var(--neutral-04100, #6C7275);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: right;
+  }
+  
+  .card_component2-Button {
+    display: flex;
+    width: 100%;
+    padding: 12px 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 8px;
+    background: #D994BC;
+    color: #FFF;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: -0.4px;
+    border: none;
+    transition: background 0.3s;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .totalQtyText {
+    color: var(--neutral-04100, #6C7275);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  
+  

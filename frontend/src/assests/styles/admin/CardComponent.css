@@ -1,0 +1,33 @@
+.myContainer-card-component {
+    border-radius: 6px;
+    border: 1.7px solid #D994BC;
+    background: #FFF;
+    padding: 16px 24px;
+    margin-top: 35px;
+    gap: 16px;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 35px auto 0 auto; 
+  }
+
+  .myHeading-card-component {
+    color: var(--neutral-04100, #6C7275);
+    font-family: 'Inter';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+    text-transform: uppercase;
+    padding-top: 8px;
+  }
+
+  .myCardText-card-component {
+    color: var(--neutral-07100, #141718);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    padding-bottom: 10px;
+  }

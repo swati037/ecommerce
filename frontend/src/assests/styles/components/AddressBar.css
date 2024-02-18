@@ -1,0 +1,31 @@
+.container-style {
+    display: flex;
+    padding: 16px 32px;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    flex: 1 0 0;
+    background: var(--neutral-02100, #F3F5F7);
+  }
+  
+  .text-style {
+    color: var(--neutral-04100, #6C7275);
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    text-transform: uppercase;
+  }
+  
+  .text-style-2 {
+    color: var(--PINKI, #D994BC);
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+  }
+  

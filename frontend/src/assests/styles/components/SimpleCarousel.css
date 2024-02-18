@@ -1,0 +1,90 @@
+
+.heading-style-carousel-review {
+    color: var(--Color-Primary-Dark-Brown, #34251F);
+    text-align: center;
+    font-family: 'Frank Ruhl Libre';
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+
+  .para-style-carousel-review {
+    color: var(--Color-Primary-Dark-Brown, #34251F);
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 180%; 
+    text-transform: capitalize;
+    padding-top: 10px;
+    padding-bottom: 30px;
+  }
+  
+
+.container-style-carousel {
+    border: 1px var(--Color-Primary-LightBrown, #EDC);
+    border-radius: 6px;
+    background: rgba(var(--Color-Primary-LightBrown-RGB, 237, 204, 204), 0.3);
+    padding: 35px;
+    text-align: center;
+    margin: 0 10px;
+    height: 90%;
+    width: 90%;
+  }
+
+  .heading-style-carousel {
+    color: var(--Color-Primary-Dark-Brown, #34251F);
+    text-align: left;
+    font-family: 'Inter';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 156.996%; /* 28.259px */
+    text-transform: capitalize;
+    padding: 10px 30px;
+  }
+
+  .paragraph-style-carousel {
+    color: var(--Color-Primary-Dark-Brown, #34251F);
+    text-align: left;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 214.286% */
+    text-transform: capitalize;
+    opacity: 0.8;
+    padding: 10px 30px;
+  }
+
+  .author-style {
+    color: var(--Color-Primary-Dark-Brown, #34251F);
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: capitalize;
+  }
+
+
+  .position-style-carousel {
+    color: var(--Color-Primary-Dark-Brown, #34251F);
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+    opacity: 0.5; 
+  }
+
+  
+  
+  
+  
+  
+  

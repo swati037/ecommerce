@@ -1,0 +1,32 @@
+.fresh-water-container {
+    background-image: url('../../FreshWater.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .heading-styles {
+    color: var(--Color-Primary-Dark-Brown, #34251F);
+    font-family: 'Frank Ruhl Libre';
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 78px;
+    text-transform: capitalize;
+    margin-left: 10px;
+  }
+  
+  .text-styles {
+    color: var(--Color-Primary-Dark-Brown, #34251F);
+    font-family: 'Inter';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 180%;
+    text-transform: capitalize;
+    padding-top: 25px;
+    margin-left: 10px;
+  }
+  

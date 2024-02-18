@@ -1,0 +1,87 @@
+.profile-screen-h1 {
+    color: #000;
+    font-family: 'Inter';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.4px;
+    margin-bottom: 20px;
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 40px;
+  }
+
+  .profile-screen-div {
+    width: 100%;
+    padding: 24px;
+    border-radius: 6px;
+    border: 1px solid #6C7275;
+    background: #FFF;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+  }
+
+  .profile-screen-h2 {
+    color: var(--PINK, #D994BC);
+    font-family: 'Inter';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    align-self: stretch;
+  }
+
+  .profile-screen-form-label {
+    color: var(--neutral-04100, #6C7275);
+    font-family: 'Inter';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+    text-transform: uppercase;
+    padding-bottom: 7px;
+    padding-top: 27px;
+  }
+
+
+.profile-screen-input-style {
+    display: flex;
+    height: 40px;
+    width: 100%;
+    padding: 0 16px;
+    align-items: center;
+    gap: 8px;
+    align-self: stretch;
+    border-radius: 6px;
+    border: 1px solid var(--blacking, #141108);
+    background: var(--White, #FFF);
+    color: #6C7275;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+  }
+
+  .profile-screen-button-style {
+    padding: 10px 20px; 
+    gap: 8px;
+    border-radius: 8px;
+    background: var(--PINK, #D994BC);
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 175% */
+    letter-spacing: -0.4px;
+    margin-top: 35px;
+    width: 100%;
+    transition: background 0.3s;
+  }
+  

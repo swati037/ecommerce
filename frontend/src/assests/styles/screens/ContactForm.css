@@ -1,0 +1,107 @@
+.conversation-header-contact {
+    color: #000;
+    font-family: 'Inter';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.4px;
+    margin-bottom: 20px;
+    padding-top: 10%;
+    text-align: center;
+    padding-bottom: 40px;
+  }
+
+
+  .list-group-container-contact {
+    width: 100%;
+    padding: 40px 24px;
+    gap: 24px;
+    border-radius: 4px;
+    border: 1.5px solid var(--neutral-04100, #6C7275);
+    margin-top: 20px;
+  }
+
+  .heading-style-contact {
+    color: var(--PINK, #D994BC);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.4px;
+    margin-top: 20px;
+  }
+
+  .col-style-contact {
+    color: var(--neutral-04100, #6C7275);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+  }
+
+  .link-style-contact {
+    color: var(--Green, #38CB89);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    text-decoration: none;
+  }
+
+  .input-style-contact {
+    border: none;
+    border-bottom: 2px solid var(--black, #141108);
+    outline: none;
+    font-size: 16px;
+    line-height: 26px;
+    padding: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: var(--neutral-04100, #6C7275);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 80%;
+  }
+
+  .button-style-contact {
+    padding: 10px 20px;
+    gap: 8px;
+    border-radius: 8px;
+    background: var(--PINK, #D994BC);
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: -0.4px;
+    margin-top: 35px;
+    width: 90%;
+    transition: background 0.3s;
+  }
+
+  .heading-style-contact-meetus {
+    color: var(--Black-900, #121212);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Inter';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.4px;
+    margin-top: 20px;
+  }

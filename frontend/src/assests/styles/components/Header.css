@@ -1,0 +1,89 @@
+.link-header-container {
+    color: var(--Color-Secondary-White, #FFF);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 1.84px;
+    text-transform: uppercase;
+  }
+
+  .custom-style {
+    color: var(--Color-Secondary-White, #FFF);
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 1.84px;
+    text-transform: uppercase;
+  }
+
+  .link-header-name-container {
+    color: var(--Color-Secondary-White, #FFF);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 1.84px;
+    text-transform: uppercase;
+    margin-right: 20px;
+    margin-top: 8px;
+    margin-left: 10px;
+  }
+
+
+  .link-header-cart-container {
+    color: var(--Color-Secondary-White, #FFF);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 1.84px;
+    text-transform: uppercase;
+    margin-right: 30px;
+    /* margin-top: 8px; */
+    margin-left: 10px;
+  }
+
+
+  .custom-button {
+    display: flex;
+    height: 45px;
+    padding: 13px;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    border: 1px solid var(--Color-Secondary-White, #FFF);
+    color: var(--Color-Secondary-White, #FFF);
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .custom-dropdown-item {
+    display: flex;
+    height: 45px;
+    padding: 13px;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    border: 1px solid var(--Color-Secondary-White, #FFF);
+    color: var(--blacking, #141108);
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
+  }

@@ -1,0 +1,49 @@
+.card_component3_Container {
+    max-height: 700px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    border-radius: 6px;
+    border: 1.7px solid #D994BC;
+    background: #FFF;
+    padding: 24px 24px;
+    margin-top: 35px;
+    gap: 16px;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 35px auto 35px auto;
+  }
+  
+  .card_component3_dispatchHeading {
+    color: var(--Typography-1, #1C2A53);
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.4px;
+    margin-bottom: 20px;
+  }
+  
+  .card_component3_tableRow {
+    color: var(--Typography-3, #8E95A9);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    border-radius: 12px;
+    background: var(--Shape-1, #F8F8F8);
+  }
+
+  .card_component3_tableValue {
+    color: var(--Typography-2, #555F7E);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+  }
+  
+  
