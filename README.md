@@ -1,3 +1,16 @@
+# Features 
+
+## For Users
+* Customer feedback and ratings
+* Search functionality for products
+* User profile with history of products purchased
+* Comprehensive checkout process such as shipping, payment method, etc.
+
+## For Admin
+* Admin panel for managing products, user, and order details
+* Admin dashboard displaying top five best-selling products, recent products, and more
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
